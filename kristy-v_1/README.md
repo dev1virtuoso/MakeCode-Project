@@ -1,5 +1,5 @@
 
-> Open this page at [https://carson-we.github.io/kristy-v/](https://carson-we.github.io/kristy-v/)
+> Open this page at [https://carson-we.github.io/MakeCode-Project/kristy-v_1/](https://carson-we.github.io/MakeCode-Project/kristy-v_1/)
 
 ## Use as Extension
 
