@@ -1,6 +1,5 @@
 
-> Open this page at [https://carson-we.github.io/keyword_trigger_mode/](https://carson-we.github.io/keyword_trigger_mode/)
-
+> Open this page at [https://carson-we.github.io/keyword_trigger_mode/](https://carson-we.github.io/MakeCode-Project/keyword_trigger_mode/)
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
