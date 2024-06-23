@@ -24,7 +24,7 @@ To begin working with the MakeCode project, follow these steps:
 
 2. Install any necessary dependencies as outlined in the project's documentation.
 
-3. Explore the directory, which contains the implementation of various machine learning algorithms and techniques.
+3. Explore the directory, which contains the implementation of various MakeCode Project
 
 4. Execute the scripts to run the MakeCode project on your own examples.
 
