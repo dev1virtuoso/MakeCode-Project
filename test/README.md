@@ -1,5 +1,5 @@
 
-> 在 [https://carson-we.github.io/test/](https://carson-we.github.io/test/) 打開此頁面
+> 在 [https://carson-we.github.io/MakeCode-Project/test/](https://carson-we.github.io/MakeCode-Project/test/) 打開此頁面
 
 ## 作為擴充功能使用
 
