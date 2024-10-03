@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/carson-we/kristy-v** and import
+* search for **https://github.com/dev1virtuoso/kristy-v** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/carson-we/kristy-v** and click import
+* paste **https://github.com/dev1virtuoso/kristy-v** and click import
 
 #### Metadata (used for search, rendering)
 
@@ -34,7 +34,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/carson-we/kristy-v1** and import
+* search for **https://github.com/dev1virtuoso/kristy-v1** and import
 
 ## Edit this project
 
@@ -42,7 +42,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/carson-we/kristy-v1** and click import
+* paste **https://github.com/dev1virtuoso/kristy-v1** and click import
 
 #### Metadata (used for search, rendering)
 
