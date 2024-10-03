@@ -1,5 +1,5 @@
 
-> Open this page at [https://carson-we.github.io/MakeCode-Project/kristy-v_1/](https://carson-we.github.io/MakeCode-Project/kristy-v_1/)
+> Open this page at [https://dev1virtuoso.github.io/MakeCode-Project/kristy-v_1/](https://dev1virtuoso.github.io/MakeCode-Project/kristy-v_1/)
 
 ## Use as Extension
 
@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 
 
 
-> Open this page at [https://carson-we.github.io/kristy-v1/](https://carson-we.github.io/kristy-v1/)
+> Open this page at [https://dev1virtuoso.github.io/kristy-v1/](https://dev1virtuoso.github.io/kristy-v1/)
 
 ## Use as Extension
 
